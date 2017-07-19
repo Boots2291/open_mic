@@ -2,7 +2,6 @@ require 'minitest'
 require 'minitest/autorun'
 require 'minitest/pride'
 require './lib/joke'
-require 'pry'
 
 class JokeTest < Minitest::Test
   def test_joke_exists

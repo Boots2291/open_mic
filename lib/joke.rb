@@ -10,8 +10,3 @@ class Joke
   end
 
 end
-
-
-
-# joke = Joke.new({id: 1, question: "Why did the strawberry cross the road?", answer: "Because his mother was in a jam."})
-# # => #<Joke:0x007fc87b02c2e0 ...>
