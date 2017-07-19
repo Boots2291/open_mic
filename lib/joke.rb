@@ -1,4 +1,3 @@
-
 class Joke
   attr_reader :id,
               :question,
